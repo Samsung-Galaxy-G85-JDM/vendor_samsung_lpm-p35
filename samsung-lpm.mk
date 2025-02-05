@@ -1,7 +1,7 @@
 # Automatically generated file. DO NOT MODIFY
 #
 PRODUCT_SOONG_NAMESPACES += \
-    vendor/samsung/lpm
+    vendor/samsung/lpm-p35
 
 PRODUCT_COPY_FILES += \
     vendor/samsung/lpm/proprietary/bin/lpm:$(TARGET_COPY_OUT_SYSTEM)/bin/lpm \
